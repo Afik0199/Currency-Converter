@@ -87,3 +87,5 @@ The project currently uses fixed conversion rates:
 ---
 
 Developed as a beginner-friendly university project using Java Swing.
+
+## Author - Afik Afsar
